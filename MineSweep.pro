@@ -23,3 +23,6 @@ FORMS    += mainwindow.ui
 
 RESOURCES += \
     hellores.qrc
+
+DISTFILES += \
+    README.md
